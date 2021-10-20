@@ -9,12 +9,12 @@ assignees: ''
 
 Please include the relevant information for each stage of the process.
 
-**1.  Problem Scoping**
-- What is the exact problem? 
-- Is it symptomatic of some underlying issue?
-- How do we know for sure it's a problem?
-- Is this a problem for some but not others?
-- How BIG is the problem?  # of people / impact of problem (rats vs. dents)
+| **1.  Problem Scoping** |
+| - What is the exact problem? |
+| - Is it symptomatic of some underlying issue? |
+| - How do we know for sure it's a problem? |
+| - Is this a problem for some but not others? |
+| - How BIG is the problem?  # of people / impact of problem (rats vs. dents) |
 
 *Insert relevant information here...*
 
